@@ -18,8 +18,10 @@ class App extends Component {
         <BrowserRouter>
           <div>
             <Nav/>
+           
           </div>
         </BrowserRouter>
+     
       </div>
     );
   }

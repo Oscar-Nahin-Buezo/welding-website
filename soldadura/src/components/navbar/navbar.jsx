@@ -18,8 +18,8 @@ class navbar extends React.Component{
                 <div className="row">
                     <div className="col-md-12">
                         <Router>
-                            <Navbar bg="transparent" variant="dark" expand="lg" sticky="top">
-                                <Navbar.Brand href="#home">Soldaduras S.A</Navbar.Brand>
+                            <Navbar bg="dark" variant="dark" expand="lg" sticky="top">
+                                <Navbar.Brand href="/">Soldaduras S.A</Navbar.Brand>
                                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                                 <Navbar.Collapse id="basic-navbar-nav">
                                     <Nav className="mr-auto">
